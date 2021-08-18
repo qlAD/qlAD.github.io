@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on qlAD 的博客</title>
-    <link>https://blog.qlad.top/posts/</link>
-    <description>Recent content in Posts on qlAD 的博客</description>
+    <title>编程基础 on qlAD 的博客</title>
+    <link>https://blog.qlad.top/tags/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/</link>
+    <description>Recent content in 编程基础 on qlAD 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 18 Aug 2021 01:32:42 +0800</lastBuildDate><atom:link href="https://blog.qlad.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Aug 2021 01:32:42 +0800</lastBuildDate><atom:link href="https://blog.qlad.top/tags/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>计算机网络_001</title>
       <link>https://blog.qlad.top/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C_001/</link>
